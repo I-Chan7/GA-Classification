@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ generateIndividual()
+comment1.params=length
+comment1.target=void\ setDefaultGeneLength(int)
+comment1.text=Getters\ and\ setters
+comment2.params=index
+comment2.target=byte\ getGene(int)
+comment3.params=index\ value
+comment3.target=void\ setGene(int,\ byte)
+comment4.params=
+comment4.target=int\ size()
+comment4.text=Public\ methods
+comment5.params=
+comment5.target=int\ getFitness()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=newSolution
+comment0.target=void\ setSolution(byte[])
+comment0.text=Public\ methods
+comment1.params=newSolution
+comment1.target=void\ setSolution(java.lang.String)
+comment2.params=individual
+comment2.target=int\ getFitness(Individual)
+comment3.params=
+comment3.target=int\ getMaxFitness()
+numComments=4

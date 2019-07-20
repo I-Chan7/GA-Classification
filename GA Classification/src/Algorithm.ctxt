@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pop
+comment0.target=Population\ evolvePopulation(Population)
+comment0.text=Public\ methods
+comment1.params=indiv1\ indiv2
+comment1.target=Individual\ crossover(Individual,\ Individual)
+comment2.params=indiv
+comment2.target=void\ mutate(Individual)
+comment3.params=pop
+comment3.target=Individual\ tournamentSelection(Population)
+numComments=4

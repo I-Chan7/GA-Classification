@@ -1,0 +1,17 @@
+age
+job
+martial
+education
+default
+balance
+housing
+loan
+contract
+day
+month
+duration
+campaign
+pdays
+previous
+poutcome
+subscribed
